@@ -1,7 +1,28 @@
 # [FairFunClientz](https://github.com/FERDdeveloper/FairFunClientz) 
 ### FairFunClientz is a group of utility mods, made by [ferderplays](https://github.com/FERDdeveloper) more informations are on [discord](https://discord.gg/9KZpwxUkeH)
-
-![downloads](https://img.shields.io/badge/downloads-10-green) ![Purchases](https://img.shields.io/badge/purchases-0-green) ![clients](https://img.shields.io/badge/clients-1-orange) ![discord](https://img.shields.io/badge/discord-https%3A%2F%2Fdiscord.gg%2F9KZpwxUkeH-blue) ![discord_members](https://img.shields.io/badge/discord__members-6-blue) ![devs](https://img.shields.io/badge/developers-ferderplays-yellowgreen)
+<div class="tags">
+ <div class="1">
+  <img src="https://img.shields.io/badge/downloads-100-green">
+ </div>
+ <div class="2">
+  <img src="https://img.shields.io/badge/purchases-0-green">
+ </div>
+ <div class="3">
+  <img src="https://img.shields.io/badge/clients-2-orange">
+ </div>
+  <div class="ahref">
+   <a href="https://discord.com/invite/F9KZpwxUkeH">
+   <div class="4"
+    <img src="https://img.shields.io/badge/discord-https%3A%2F%2Fdiscord.gg%2F9KZpwxUkeH-blue">
+   </div>
+   <div class="5">
+    <img src="https://img.shields.io/badge/discord__members-7-blue">
+   </div>
+  </a>
+ <div class="6">
+  <img src="https://img.shields.io/badge/developers-ferderplays, sulinka-yellowgreen">
+ </div>
+</div>
 <details>
   <summary>more info:</summary>
   The FairFunClientz(FFC) is a group of developers and their clients, it feautures FerderClient, PhobosC.
