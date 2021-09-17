@@ -10,17 +10,32 @@
  <div class="3">
   <img src="https://img.shields.io/badge/clients-2-orange">
  </div>
-  <div class="ahref">
+  <div class="4">
    <a href="https://discord.com/invite/F9KZpwxUkeH">
-   <div class="4"
-    <img src="https://img.shields.io/badge/discord-https%3A%2F%2Fdiscord.gg%2F9KZpwxUkeH-blue">
-   </div>
    <div class="5">
     <img src="https://img.shields.io/badge/discord__members-7-blue">
    </div>
   </a>
  <div class="6">
   <img src="https://img.shields.io/badge/developers-ferderplays, sulinka-yellowgreen">
+ </div>
+ <div class="7">
+  <img src="https://img.shields.io/badge/file%20size-2mb-yellowgreen">
+ </div>
+ <div class="8">
+  <img src="https://img.shields.io/badge/status-in%20development-yellowgreen">
+ </div>
+ <div class="9"> 
+  <img src="https://img.shields.io/badge/clients-ferderclient, PhobosC-orange">
+ </div>
+ <div class="10">
+  <img src="https://img.shields.io/badge/developer%20discord%20status(ferderplays)-online-blue">
+ </div>
+ <div class="11">
+  <img src="https://img.shields.io/badge/developer%20discord%20status(sulinka)-online-blue">
+ </div>
+ <div class="12">
+  <img src="https://img.shields.io/badge/developer's%20discord-ferderplays(**ferderplays.jar**), sulinka(hoe%20sulinka)-blue">
  </div>
 </div>
 <details>
