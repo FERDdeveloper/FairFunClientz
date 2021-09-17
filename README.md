@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/developer%20discord%20status(ferderplays)-online-blue">
  </div>
  <div class="11">
-  <img src="https://img.shields.io/badge/developer%20discord%20status(sulinka)-online-blue">
+  <img src="https://img.shields.io/badge/developer%20discord%20status(sulinka)-offline-blue">
  </div>
  <div class="12">
   <img src="https://img.shields.io/badge/developer's%20discord-ferderplays(**ferderplays.jar**), sulinka(hoe%20sulinka)-blue">
