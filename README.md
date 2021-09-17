@@ -66,3 +66,7 @@
 <summary>instalation process:</summary>
 after you compiled it, drag the .jar file to the mods folder(how to find the mods folder: press windows + r, and than type %appdata%, and the open ".minecraft" folder, than find the mods folder)with forge for 1.12.2, and than open the launcher that you are using, and you will have the forge version in the launcher, so launch the forge version, and then you're done
 </details>
+<details>
+ <summary>External Links</summary>
+ <a href="https://ferderplays.ferder.repl.co/">Ferderplays's website</a>
+</details>
