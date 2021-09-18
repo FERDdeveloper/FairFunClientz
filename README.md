@@ -29,14 +29,11 @@
   <img src="https://img.shields.io/badge/clients-ferderclient, PhobosC-orange">
  </div>
  <div class="10">
-  <img src="https://img.shields.io/badge/developer%20discord%20status(ferderplays)-online-blue">
- </div>
- <div class="11">
-  <img src="https://img.shields.io/badge/developer%20discord%20status(sulinka)-offline-blue">
- </div>
- <div class="12">
-  <img src="https://img.shields.io/badge/developer's%20discord-ferderplays(**ferderplays.jar**), sulinka(hoe%20sulinka)-blue">
- </div>
+ <img src="https://img.shields.io/badge/ferderclient%20current%20version-pb0.0.1-orange">
+</div>
+<div class="11">
+ <img src="https://img.shields.io/badge/PhobosC%20current%20veersion-none-orange">
+</div>
 </div>
 <details>
   <summary>more info:</summary>
