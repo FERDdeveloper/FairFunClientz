@@ -2,7 +2,7 @@
 ### FairFunClientz is a group of utility mods, made by [ferderplays](https://github.com/FERDdeveloper) more informations are on [discord](https://discord.gg/9KZpwxUkeH)
 <div class="tags">
  <div class="1">
-  <img src="https://img.shields.io/badge/downloads-1k-green">
+  <img src="https://img.shields.io/github/downloads/ferderplays/FairFunClientz/total" alt="dwnlds" />
  </div>
  <div class="2">
   <img src="https://img.shields.io/badge/purchases-0-green">
